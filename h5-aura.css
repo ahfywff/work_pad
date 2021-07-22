@@ -10,10 +10,10 @@ html {
     font-size: 1000vw/37.5;
 }
 
-.m-hotWords-bottom .hotWords-list {
+/*.m-hotWords-bottom .hotWords-list {
 	display: flex;
 	flex-wrap: wrap
-}
+}*/
 
 
 .m-hotWords-bottom .hotWords-list .c-link {
@@ -126,7 +126,7 @@ html {
 
 
 
-.header-search-suggest .search-hot-item .search-list .c-link:before {
+/*.header-search-suggest .search-hot-item .search-list .c-link:before {
 	position: absolute;
 	left: .1rem;
 	top: .078rem;
@@ -168,4 +168,4 @@ html {
 
 .header-search-suggest .search-hot-item .search-list .c-link:nth-child(6):before {
 	content: "6"
-}
+}*/
