@@ -27,6 +27,11 @@ html {
 	overflow: hidden;
 }
 
+.hot-info {
+	display: block;
+	overflow: hidden;
+}
+
 .m-hotWords-bottom .hotWords-list .hotWords-num1,.m-hotWords-bottom .hotWords-list .hotWords-num2,.m-hotWords-bottom .hotWords-list .hotWords-num3,.m-hotWords-bottom .hotWords-list .hotWords-num4,.m-hotWords-bottom .hotWords-list .hotWords-num5,.m-hotWords-bottom .hotWords-list .hotWords-num6,.m-hotWords-bottom .hotWords-list .hotWords-num7,.m-hotWords-bottom .hotWords-list .hotWords-num8,.m-hotWords-bottom .hotWords-list .hotWords-num9 {
 	margin: 0 .03rem
 }
