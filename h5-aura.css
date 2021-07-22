@@ -17,21 +17,21 @@ element.style {
     position: relative;
 }
 
-a {
+/*a {
     color: #333;
     text-decoration: none;
-}
+}*/
 
-a {
+/*a {
     background-color: transparent;
     -webkit-tap-highlight-color: rgba(0,0,0,0);
 }
-
-a:-webkit-any-link {
+*/
+/*a:-webkit-any-link {
     color: -webkit-link;
     cursor: pointer;
     text-decoration: underline;
-}
+}*/
 
 /*body, h1, h2, h3, h4, h5, h6, hr, p, blockquote, figure, menu, dl, dt, dd, ul, ol, li, pre, form, fieldset, legend, button, input, textarea, select, th, td {
     margin: 0;
