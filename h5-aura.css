@@ -33,18 +33,18 @@ a:-webkit-any-link {
     text-decoration: underline;
 }
 
-body, h1, h2, h3, h4, h5, h6, hr, p, blockquote, figure, menu, dl, dt, dd, ul, ol, li, pre, form, fieldset, legend, button, input, textarea, select, th, td {
+/*body, h1, h2, h3, h4, h5, h6, hr, p, blockquote, figure, menu, dl, dt, dd, ul, ol, li, pre, form, fieldset, legend, button, input, textarea, select, th, td {
     margin: 0;
     padding: 0;
     -webkit-tap-highlight-color: rgba(0,0,0,0);
-}
+}*/
 
-html, body {
+/*html, body {
     -webkit-text-size-adjust: none!important;
     text-size-adjust: none!important;
-}
+}*/
 
-:root, html {
+/*:root, html {
     --background-g1: #fff;
     --background-g2: 90deg,#1a2e4a 0,#409890 100%;
     --background-g3: 90deg,rgba(16,36,65,0.259) 0,rgba(17,85,99,0.259) 100%;
@@ -58,16 +58,16 @@ html, body {
     --text-g7: #f53;
     --text-g8: #bb8c52;
     --text-reverse-g1: #222;
-}
+}*/
 
 html {
     font-size: 100px;
     font-size: 1000vw/37.5;
 }
 
-html {
+/*html {
     font-size: 100px;
-}
+}*/
 
 .m-hotWords-bottom {
 	position: relative;
