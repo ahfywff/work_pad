@@ -69,12 +69,12 @@ html {
     font-size: 100px;
 }*/
 
-.m-hotWords-bottom {
+/*.m-hotWords-bottom {
 	position: relative;
 	height: .7rem
-}
+}*/
 
-.m-hotWords-bottom .hotWords-wrap {
+/*.m-hotWords-bottom .hotWords-wrap {
 	position: fixed;
 	bottom: .12rem;
 	left: .12rem;
@@ -87,7 +87,7 @@ html {
 	border-radius: 4px;
 	background-color: #fff;
 	box-shadow: 0 0 30px 0 rgba(0,0,0,0.15)
-}
+}*/
 
 .m-hotWords-bottom .hotWords-list {
 	display: -webkit-box;
