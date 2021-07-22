@@ -6,4 +6,6 @@
 
 爱奇艺 [https://m.iqiyi.com/w_19s7hm9hc5.html](https://m.iqiyi.com/w_19s7hm9hc5.html)
 
+爱奇艺2 [./iqiyi.html](./iqiyi.html)
+
 腾讯新闻-阅读模式 [https://xw.qq.com/cmsid/20210721A0BKD000](https://xw.qq.com/cmsid/20210721A0BKD000)
