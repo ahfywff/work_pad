@@ -30,7 +30,7 @@ html {
 .hot-info {
 	display: block;
 	overflow: hidden;
-	border: solid 1px;
+/* 	border: solid 1px; */
 	margin: 5px;
 	text-decoration: underline;
 	background: #FFB6C1;
