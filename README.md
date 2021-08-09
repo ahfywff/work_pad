@@ -11,3 +11,5 @@
 爱奇艺2 [./iqiyi.html](./iqiyi.html)
 
 腾讯新闻-阅读模式 [https://xw.qq.com/cmsid/20210721A0BKD000](https://xw.qq.com/cmsid/20210721A0BKD000)
+
+[聚焦东京奥运会](https://kandian.qq.com/mqq/watchspot/activityplatform/newTopicView.html?article_type=0&bid=3654&rowkey=82960ed0bab807KL&talk_id=2920448116_7129531626147755650&topic_id=1545601&shareFrom=qb)
