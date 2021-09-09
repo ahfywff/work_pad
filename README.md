@@ -15,3 +15,5 @@
 [聚焦东京奥运会](https://kandian.qq.com/mqq/watchspot/activityplatform/newTopicView.html?article_type=0&bid=3654&rowkey=82960ed0bab807KL&talk_id=2920448116_7129531626147755650&topic_id=1545601&shareFrom=qb)
 
 [http://browser.feitalks.tech/readmode/history/foo.html](http://browser.feitalks.tech/readmode/history/foo.html)
+
+[http://res.imtt.qq.com/qqbrowser_x5/zhengyuli/button.htm](http://res.imtt.qq.com/qqbrowser_x5/zhengyuli/button.htm)
