@@ -17,3 +17,5 @@
 [http://browser.feitalks.tech/readmode/history/foo.html](http://browser.feitalks.tech/readmode/history/foo.html)
 
 [http://res.imtt.qq.com/qqbrowser_x5/zhengyuli/button.htm](http://res.imtt.qq.com/qqbrowser_x5/zhengyuli/button.htm)
+
+[https://www.chinaz.com/](https://www.chinaz.com/)
