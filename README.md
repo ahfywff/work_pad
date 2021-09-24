@@ -19,3 +19,5 @@
 [http://res.imtt.qq.com/qqbrowser_x5/zhengyuli/button.htm](http://res.imtt.qq.com/qqbrowser_x5/zhengyuli/button.htm)
 
 [https://www.chinaz.com/](https://www.chinaz.com/)
+
+[http://browser.feitalks.tech/WebReadTxt/](http://browser.feitalks.tech/WebReadTxt/)
