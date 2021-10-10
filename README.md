@@ -4,7 +4,7 @@
 
 大梦主 [https://m.biqugeu.net/135_135772/](https://m.biqugeu.net/135_135772/)
 
-畅读模式 [https://m.xshengyan8.com/wapbook/53833_79872020.html](https://m.xshengyan8.com/wapbook/53833_79872020.html)
+畅读模式 [https://m.sytxt.cc/wapbook/53833_79872020.html](https://m.sytxt.cc/wapbook/53833_79872020.html)
 
 爱奇艺 [https://m.iqiyi.com/w_19s7hm9hc5.html](https://m.iqiyi.com/w_19s7hm9hc5.html)
 
