@@ -10,6 +10,10 @@
 
 阅读模式-最后一章 [https://m.sytxt.cc/wapbook/53833_497373932.html](https://m.sytxt.cc/wapbook/53833_497373932.html)
 
+晋江-第一章 [https://wap.jjwxc.com/book2/2698978/1](https://wap.jjwxc.com/book2/2698978/1)
+
+晋江-最后一章
+
 爱奇艺 [https://m.iqiyi.com/w_19s7hm9hc5.html](https://m.iqiyi.com/w_19s7hm9hc5.html)
 
 爱奇艺2 [./iqiyi.html](./iqiyi.html)
