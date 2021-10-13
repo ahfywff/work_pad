@@ -6,6 +6,10 @@
 
 畅读模式 [https://m.sytxt.cc/wapbook/53833_79872020.html](https://m.sytxt.cc/wapbook/53833_79872020.html)
 
+阅读模式-第一章 [https://m.sytxt.cc/wapbook/53833_85459734.html](https://m.sytxt.cc/wapbook/53833_85459734.html)
+
+阅读模式-最后一章 [https://m.sytxt.cc/wapbook/53833_497373932.html](https://m.sytxt.cc/wapbook/53833_497373932.html)
+
 爱奇艺 [https://m.iqiyi.com/w_19s7hm9hc5.html](https://m.iqiyi.com/w_19s7hm9hc5.html)
 
 爱奇艺2 [./iqiyi.html](./iqiyi.html)
