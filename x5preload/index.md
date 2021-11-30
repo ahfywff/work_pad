@@ -4,4 +4,6 @@
 
 [prerender](http://browser.feitalks.tech/x5preload/prerender.html)
 
+[prerender1](http://browser.feitalks.tech/x5preload/prerender1.html)
+
 [x5-prerender](http://browser.feitalks.tech/x5preload/x5_prerender.html)
