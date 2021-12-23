@@ -10,4 +10,6 @@
 
 [jsapi-prerender](http://browser.feitalks.tech/x5preload/jsapi-prerender.html)
 
+[jsapi-prerender cos](https://x5tbs.imtt.qq.com/alexswang/x5preload/jsapi-prerender.html)
+
 [jsapi-prerender2](http://browser.feitalks.tech/x5preload/jsapi-prerender2.html)
