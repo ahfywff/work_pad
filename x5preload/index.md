@@ -9,3 +9,5 @@
 [x5-prerender](http://browser.feitalks.tech/x5preload/x5_prerender.html)
 
 [jsapi-prerender](http://browser.feitalks.tech/x5preload/jsapi-prerender.html)
+
+[jsapi-prerender2](http://browser.feitalks.tech/x5preload/jsapi-prerender2.html)
