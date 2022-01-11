@@ -15,3 +15,5 @@
 [jsapi-prerender2](http://browser.feitalks.tech/x5preload/jsapi-prerender2.html)
 
 [prefetch](http://browser.feitalks.tech/x5preload/prefetch.html)
+
+[preload](http://browser.feitalks.tech/x5preload/preload.html)
